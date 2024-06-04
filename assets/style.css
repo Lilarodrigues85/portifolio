@@ -1,24 +1,2 @@
 @import url(global.css);
 
-.menu{
-  text-align: center;
-  margin-right: 100px;
-  font-variant: small-caps;
-  font-size: larger;
-  
-}
-
-.eu{
-  width: 350px;
-  position: absolute;
-  left: 850px;  
-}
-
-.nome{
-  position: relative;
-  top: 240px;
-  left: 150px;
-  text-align: left;
-  font-variant: small-caps;
-  font-size: xx-large;
-}
